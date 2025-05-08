@@ -26,6 +26,11 @@ a {
 body {
   background-color: #f9f9f9;
 }
+/* google font 
+
+font-family: "Inter", sans-serif; 
+
+*/
 
 /* hero section css strat  */
 .hading {
@@ -283,11 +288,7 @@ hr {
   color: #fff;
   padding: 20px 0;
 }
-/* google font 
 
-font-family: "Inter", sans-serif; 
-
-*/
 /* reponsive sm device  */
 @media (min-width: 320px) and (max-width: 575.98px) {
   .margin-top {
@@ -620,11 +621,4 @@ font-family: "Inter", sans-serif;
     font-size: 18px;
   }
 }
-@media (min-width: 1025px) and (max-width: 1924px) {
-  /* team section  */
-  /* .team-text {
-  margin-left: 32rem;
-  margin-top: 48px;
-  font-size: 21px;
-} */
-}
+
